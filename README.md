@@ -6,10 +6,8 @@ ngrok http 80
 
 Она означает, что подключение к http://4b348924.ngrok.io и https://4b348924.ngrok.io (протоколы HTTP и HTTPS соответственно) будет перенаправлено на http://localhost:80. Отрою файл i.php
 
-![Uploading laba11-2.png…]()
+![laba11-2](https://user-images.githubusercontent.com/99552669/172924672-adf15c48-953e-4a30-8144-cececa9a8cef.png)
 
-![Uploading laba11-3.png…]()
+![laba11-3](https://user-images.githubusercontent.com/99552669/172924693-b3b744a1-a2e3-4681-b0f9-fd0577150735.png)
 
-После «HTTP Requests» показаны строки, которые запрашивал удалённый пользователь.
- 
- ![Uploading laba11-4.png…]()
+![laba11-4](https://user-images.githubusercontent.com/99552669/172924712-e96fc617-5c97-4837-b0ac-454302ff0a05.png)
